@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML CSS JS
 - 💞️ I’m looking to collaborate on any project 
-- 📫 How to reach me mail/LinkedIn
+- 📫 How to reach me e-mail/LinkedIn
 
 <!---
 Konastersion/Konastersion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
